@@ -9,3 +9,8 @@
   - create a src folder to organize your all files 
   and also create public/temp folder for firstly upload your files here then any cloud 
   - install nodemon for automatically restarts your node application when it detects any changes 
+  - create some folders inside src folder - controlles,models,routes,middlewares,db and utils
+
+  - install prettier for code structure for dev(npm i -D prettier)
+    - add .prettierrc file for prettier configration
+    - add .prettierignore file for ignore files
