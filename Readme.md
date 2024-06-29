@@ -14,3 +14,4 @@
   - install prettier for code structure for dev(npm i -D prettier)
     - add .prettierrc file for prettier configration
     - add .prettierignore file for ignore files
+  - install mongoose ( npm i mongoose )
