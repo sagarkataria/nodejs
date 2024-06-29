@@ -15,3 +15,8 @@
     - add .prettierrc file for prettier configration
     - add .prettierignore file for ignore files
   - install mongoose ( npm i mongoose )
+    - craete index.js for connect mongodb
+    - connect mongodb to in main index.js 
+  - create app.js for expressjs in src folder
+    - install cors and cookie-parser
+  - create a utility asyncHandler file for  wraped a function with try catch or Promise  
